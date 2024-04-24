@@ -5,7 +5,7 @@ Deberán replicar la siguiente Página Web con lo visto en clase hasta el moment
 Es importante recordar que quizá algunos eligieron una temática distinta a la planteada, y es válida la entrega mientras se respete la estructura base
 
 # Avances al 17de Abril
-ver avance del tp.....
+[ver avance del tp.....](https://lba2244.github.io/TPIntegrador_FrontEnd_CaC_PHP_2024/)
 
 # Comentarios:
 Trabajé con HTML, CSS y Bootstrap.
