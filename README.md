@@ -4,10 +4,10 @@ Deberán replicar la siguiente Página Web con lo visto en clase hasta el moment
 
 Es importante recordar que quizá algunos eligieron una temática distinta a la planteada, y es válida la entrega mientras se respete la estructura base
 
-Avances al 17de Abril
+# Avances al 17de Abril
 ver avance del tp.....
 
-##Comentarios:
+# Comentarios:
 Trabajé con HTML, CSS y Bootstrap.
 
 Detalles en los que voy a seguir trabajando para mejorar mi proyecto:
