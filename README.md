@@ -23,6 +23,7 @@ Se agregó al proyecto manejo de Api Conexión a API
 Detalles en los que voy a seguir trabajando para mejorar mi proyecto:
 
 *menú responsive 
+
 *agregar animaciones
 
 
