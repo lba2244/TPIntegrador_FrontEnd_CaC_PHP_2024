@@ -16,7 +16,16 @@ Detalles en los que voy a seguir trabajando para mejorar mi proyecto:
 
 *y trabajar con la la animación para que al presionar los botones Tendencia/Aclamadas se se desplace correctamente
 # Avances al 27 de Mayo 2024
-[ver avance del tp.....](https://lba2244.github.io/TPIntegrador_FrontEnd_CaC_PHP_2024/)
+[ver avance del tp.....](https:/)
+# Comentarios:
+Se agregó al proyecto manejo de Api Conexión a API
+Detalles en los que voy a seguir trabajando para mejorar mi proyecto:
+*menú responsive 
+*agregar animaciones
+
+
+
+
 
 
 
