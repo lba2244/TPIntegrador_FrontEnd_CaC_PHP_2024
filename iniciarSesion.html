@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/04195362f5.js" crossorigin="anonymous"></script>
+
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="shortcut icon" href="img/cine2.png">
+    <link rel="stylesheet" href="css/style.css">
+    
+
+    <title>PHP_MOVIE's Iniciar Sesión</title>
+</head>
+<body class="bodyRegistrarse">
+    <header class="header">
+
+        <nav class="nav">
+            <a class="icon_text" href="#">
+                <img class="icon_text" src="img/cine2.png" alt="Responsive image" style="width:25%">
+                <h6 class="text-white">MOVIE'S</h6>
+            </a>
+
+            <ul class="items">
+                <!--<li class="listaItems"><a class="linkNavBar" href="#index">Tendencias</a></li>
+     <li class="listaItems"><a class="linkNavBar" href="#index">Aclamadas</a></li> -->
+                <li class="listaItems"><a class="linkNavBar" href="index.html">Movie's Home</a></li>
+                <li class="listaItems"><a class="linkNavBar iniciarSesion" href="#regist.html">Iniciar Sesión</a></li>
+            </ul>
+
+        </nav>
+    </header>
+    <main class="main">
+        <section class="mainRegist" id="fondo">
+            <section data-aos="zoom-in" data-aos-duration="1000" class="seccionRegistrarse aos-init aos-animate">
+            
+                <!--pongo get ya que en github pages da error el method post-->
+            <form action=" " method="get">
+                <h2 class="tituloRegistrarse">Iniciar Sesión</h2>
+                <div>
+                    <input type="email" placeholder="Email" id="email" name="email">
+                    <div class="error_text"></div>
+                </div>
+                <div>
+                    <input type="password" placeholder="Password más de 6 caracteres" id="password" name="password">
+                   
+                </div>
+                <div>
+                    <input class="boton" type="submit" value="Iniciar Sesión">
+                </div>
+                <div>
+                    <div class="error_text" type="error_text"></div>
+                    <!--- mmmmmmmmmmmmmm raro esto volver a verlo-->
+                
+                <a class="register_message1">Aún no tenés cuenta?</a> <a id="register_message" class="register_message" href="regist.html">Registrate</a>
+                
+                </div>
+            </form>
+        </section>
+    </main>
+
+
+    <script>
+        AOS.init();
+    </script>
+
+     <!-- SweetAlert2 -->
+     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/validando.js"></script> 
+</body>
+</html><!--****************  FOOTER  ******************************************-->
+
+
+<footer class="footer">
+    <div class="grupo1">
+        <div class="box">
+            <figure>
+                <a href="#">
+                    <img src="img/cine2.png" alt="logo">
+                </a>
+            </figure>
+        </div>
+        <div class="box">
+            <h2>Difrutá donde quieras!!</h2>
+            <p>Películas y series Ilimitadas en un solo lugar</p>
+            <p class="small">MOVIE'S &#169; Todos los Derechos Reservados</p>
+
+        </div>
+        <div class="box">
+            <h2>Seguinos</h2>
+
+            <div class="red-social a">
+                <h2>
+                    <a href="https://www.twitter.com" target="_blank"><i class="fa-brands fa-x-twitter fa-xl"
+                            aria-hidden="true"></i></a>
+                    <a href="https://www.instagram.com" target="_blank"><i
+                            class="fa-brands fa-square-instagram fa-xl" aria-hidden="true"></i></a>
+                    <a href="https://www.youtube.com" target="_blank"><i class="fa-brands fa-youtube fa-xl"
+                            aria-hidden="true"></i></a>
+                    <a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-square-facebook fa-xl"
+                            aria-hidden="true"></i></a>
+                    <a href="https://www.tiktok.com" target="_blank"><i class="fa-brands fa-tiktok fa-xl"
+                            aria-hidden="true"></i></a><br>
+                </h2>
+                <!-- Botón ir arriba-->
+                <a href="#" class="btn_top">
+                    <img src="img/flecha-hacia-arriba.png" alt="Ir arriba flecha" class="btn_top_image" />
+
+                </a>
+            </div>
+
+
+        </div>
+    </div>
+
+    </div>
+</footer>
+
+</body>
+
+</html>
