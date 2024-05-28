@@ -7,7 +7,7 @@ Es importante recordar que quizá algunos eligieron una temática distinta a la 
 # Avances al 27 de Mayo 2024
 Entrega Trabajo Práctico Intergrador Front-End CaC_PHP_2024
 
-[Trabajo Práctico Intergrador Front-End CaC_PHP_2024_1C incluyendo JS](https://lba2244.github.io/TPIntegrador_FrontEnd_CaC_PHP_2024/)
+[Trabajo Práctico Intergrador Front-End CaC_PHP_2024_1C incluyendo conexión API](https://lba2244.github.io/TPIntegrador_FrontEnd_CaC_PHP_2024/)
 
 # Comentarios:
 Se agregó al proyecto manejo de Api Conexión a API
